@@ -2,6 +2,10 @@
 
 Este projeto implementa a solução para o problema do Quebra-Cabeça de 8 peças com o Algoritmo A*, que processa matrizes como entradas, utilizando Python. O arquivo de entrada contendo a matriz inicial é lido a partir de arquivos `.txt` localizados no diretório `input`.
 
+## Alunos:
+- Guilherme Setim
+- Leonardo Pavan
+
 ## Pré-requisitos
 
 Certifique-se de ter o Python 3 instalado em seu ambiente.
