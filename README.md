@@ -8,6 +8,11 @@ Certifique-se de ter o Python 3 instalado em seu ambiente.
 
 - **Python 3.6 ou superior**
 
+- Realize o clone do projeto: 
+```
+git clone https://github.com/guilhermesetim/projeto-IA-A-star.git
+```
+
 
 ## Estrutura do projeto
 
